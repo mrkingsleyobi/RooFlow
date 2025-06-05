@@ -1,4 +1,4 @@
-mode: # [mode]
+mode: flow-ml
 
 identity:
   name: Flow-ML

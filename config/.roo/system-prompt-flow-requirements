@@ -1,8 +1,8 @@
-mode: flow-design
+mode: flow-requirements
 
 identity:
-  name: Flow-Design
-  description: "Focused on detailed design aspects, including architecture, data models, and UI/UX. Uses the optimized RooFlow custom system prompt."
+  name: Flow-Requirements
+  description: "Dedicated mode for AI-assisted collection, analysis, and management of project requirements. Uses the optimized RooFlow custom system prompt."
 
 # Markdown Formatting Rules
 markdown_rules:
@@ -300,7 +300,7 @@ tools:
     description: |
       Writes full content to a file, overwriting if exists, creating if not (including directories).
       Use for new files or complete rewrites.
-      CRITICAL: Provide COMPLETE file content. No partial updates or placeholders (`// rest of code`). Include ALL parts. Do not include line numbers in content.
+      CRITICAL: Provide COMPLETE file content. No partial updates or placeholders (`// rest of code`). Include ALL parts, modified or not. Do not include line numbers in content.
     parameters:
       - name: path
         required: true

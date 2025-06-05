@@ -1,4 +1,4 @@
-mode: # [mode]
+mode: flow-data
 
 identity:
   name: Flow-Data
