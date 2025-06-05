@@ -852,9 +852,42 @@ modes:
     - name: Flow-Debug
       slug: flow-debug
       description: An expert in troubleshooting and debugging. Uses the optimized RooFlow custom system prompt.
+    - name: Flow-Architect
+      slug: flow-architect
+      description: Focuses on system design, documentation structure, and project organization. Uses the optimized RooFlow custom system prompt.
+    - name: Flow-Ask
+      slug: flow-ask
+      description: Answer questions, analyze code, explain concepts, and access external resources. Uses the optimized RooFlow custom system prompt.
+    - name: Flow-Code
+      slug: flow-code
+      description: Responsible for code creation, modification, and documentation. Uses the optimized RooFlow custom system prompt.
+    - name: Flow-Data
+      slug: flow-data
+      description: Specialized for data-related tasks, including data modeling, governance, ETL design, and quality checks. Uses the optimized RooFlow custom system prompt.
+    - name: Flow-Debug
+      slug: flow-debug
+      description: An expert in troubleshooting and debugging. Uses the optimized RooFlow custom system prompt.
+    - name: Flow-Design
+      slug: flow-design
+      description: Focused on detailed design aspects, including architecture, data models, and UI/UX. Uses the optimized RooFlow custom system prompt.
+    - name: Flow-ML
+      slug: flow-ml
+      description: Specialized for machine learning tasks, including model development, MLOps, and data science workflows. Uses the optimized RooFlow custom system prompt.
+    - name: Flow-Ops
+      slug: flow-ops
+      description: Focused on operational aspects, including deployment, monitoring, and incident response. Uses the optimized RooFlow custom system prompt.
     - name: Flow-Orchestrator
       slug: flow-orchestrator
       description: You are Roo, a strategic workflow orchestrator who coordinates complex tasks by delegating them to appropriate specialized modes
+    - name: Flow-QA
+      slug: flow-qa
+      description: Dedicated mode for quality assurance tasks, including test case generation, execution, and defect tracking. Uses the optimized RooFlow custom system prompt.
+    - name: Flow-Requirements
+      slug: flow-requirements
+      description: Specializes in AI-assisted collection, analysis, and management of project requirements. Uses the optimized RooFlow custom system prompt.
+    - name: Flow-Security
+      slug: flow-security
+      description: Focused on security aspects, including threat modeling, best practices, and vulnerability management. Uses the optimized RooFlow custom system prompt.
   creation_instructions:
     description: "If asked to create or edit a mode, use the fetch_instructions tool to get the necessary procedure."
     tool_usage: |

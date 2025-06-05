@@ -51,12 +51,103 @@
       "source": "project"
     },
     {
+      "slug": "flow-data",
+      "name": "Flow-Data",
+      "roleDefinition": "Specialized for data-related tasks, including data modeling, governance, ETL design, and quality checks.",
+      "groups": [
+        "read",
+        "edit",
+        "browser",
+        "command",
+        "mcp"
+      ],
+      "source": "project"
+    },
+    {
+      "slug": "flow-design",
+      "name": "Flow-Design",
+      "roleDefinition": "Focused on detailed design aspects, including architecture, data models, and UI/UX.",
+      "groups": [
+        "read",
+        "edit",
+        "browser",
+        "command",
+        "mcp"
+      ],
+      "source": "project"
+    },
+    {
+      "slug": "flow-ml",
+      "name": "Flow-ML",
+      "roleDefinition": "Specialized for machine learning tasks, including model development, MLOps, and data science workflows.",
+      "groups": [
+        "read",
+        "edit",
+        "browser",
+        "command",
+        "mcp"
+      ],
+      "source": "project"
+    },
+    {
+      "slug": "flow-ops",
+      "name": "Flow-Ops",
+      "roleDefinition": "Focused on operational aspects, including deployment, monitoring, and incident response.",
+      "groups": [
+        "read",
+        "edit",
+        "browser",
+        "command",
+        "mcp"
+      ],
+      "source": "project"
+    },
+    {
       "slug": "flow-orchestrator",
       "name": "Flow-Orchestrator",
       "roleDefinition": "You are Roo, a strategic workflow orchestrator who coordinates complex tasks by delegating them to appropriate specialized modes. You have a comprehensive understanding of each mode's capabilities and limitations, allowing you to effectively break down complex problems into discrete tasks that can be solved by different specialists.",
       "groups": [
         "read",
         "browser",
+        "mcp"
+      ],
+      "source": "project"
+    },
+    {
+      "slug": "flow-qa",
+      "name": "Flow-QA",
+      "roleDefinition": "Dedicated mode for quality assurance tasks, including test case generation, execution, and defect tracking.",
+      "groups": [
+        "read",
+        "edit",
+        "browser",
+        "command",
+        "mcp"
+      ],
+      "source": "project"
+    },
+    {
+      "slug": "flow-requirements",
+      "name": "Flow-Requirements",
+      "roleDefinition": "Specializes in AI-assisted collection, analysis, and management of project requirements.",
+      "groups": [
+        "read",
+        "edit",
+        "browser",
+        "command",
+        "mcp"
+      ],
+      "source": "project"
+    },
+    {
+      "slug": "flow-security",
+      "name": "Flow-Security",
+      "roleDefinition": "Focused on security aspects, including threat modeling, best practices, and vulnerability management.",
+      "groups": [
+        "read",
+        "edit",
+        "browser",
+        "command",
         "mcp"
       ],
       "source": "project"
