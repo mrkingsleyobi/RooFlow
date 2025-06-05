@@ -852,15 +852,6 @@ modes:
     - name: Flow-Debug
       slug: flow-debug
       description: An expert in troubleshooting and debugging. Uses the optimized RooFlow custom system prompt.
-    - name: Flow-Architect
-      slug: flow-architect
-      description: Focuses on system design, documentation structure, and project organization. Uses the optimized RooFlow custom system prompt.
-    - name: Flow-Ask
-      slug: flow-ask
-      description: Answer questions, analyze code, explain concepts, and access external resources. Uses the optimized RooFlow custom system prompt.
-    - name: Flow-Code
-      slug: flow-code
-      description: Responsible for code creation, modification, and documentation. Uses the optimized RooFlow custom system prompt.
     - name: Flow-Data
       slug: flow-data
       description: Specialized for data-related tasks, including data modeling, governance, ETL design, and quality checks. Uses the optimized RooFlow custom system prompt.
