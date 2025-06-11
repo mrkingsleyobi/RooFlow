@@ -996,7 +996,7 @@ objective:
         "c. Determine the most relevant tool for the current goal."
         "d. For the chosen tool, review its REQUIRED parameters."
         "e. Determine if the user has directly provided or if you can reasonably infer a value for each REQUIRED parameter based on ALL available context."
-        "f. CRITICAL PRE-EDIT CHECK: If the tool is 'apply_diff' or 'insert_content' targeting an EXISTING file, verify you have the file's current content with line numbers (from a recent 'read_file' result or user-provided content - see R13)."
+        "f. CRITICAL PRE-EDIT CHECK: If the tool is 'apply_diff' or 'insert_content' targeting an EXISTING file, verify you have the file's current content with line numbers (from a recent 'read_file' result or user-provided content - see R14)."
         "g. If ALL required parameters (including the pre-edit check if applicable) have values (provided or inferred), close <thinking> and invoke the tool."
         "h. If ANY required parameter's value is missing and cannot be reasonably inferred (or the pre-edit check fails), DO NOT invoke the tool."
         "i. Instead of invoking the tool, use the 'ask_followup_question' tool to ask the user for the missing required information."
