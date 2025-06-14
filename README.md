@@ -197,11 +197,11 @@ graph LR
 
    1.  **Start a Chat:** Open a new Roo Code chat in your project.
    2.  **Select a Mode:** Choose the appropriate mode for your task:
-       *   **Flow-Architect:** For system design, project structure, and Memory Bank initialization.
-       *   **Flow-Code:** For writing, modifying, and documenting code.
-       *   **Flow-Debug:** For troubleshooting errors and debugging code.
-       *   **Flow-Ask:** For questions, code analysis, and explanations.
-       *   **Flow-Orchestrator:** For complex tasks requiring breakdown and delegation to other modes (see [Boomerang Tasks](#boomerang-tasks-orchestrate-complex-workflows)).
+       *   **🌊Flow Code💻:** For writing, modifying, and documenting code.
+       *   **🌊Flow Architect🏗️:** For system design, project structure, and Memory Bank initialization.
+       *   **🌊Flow Ask❓:** For questions, code analysis, and explanations.
+       *   **🌊Flow Debug🪲:** For troubleshooting errors and debugging code.
+       *   **🌊Flow Orchestrator🪃:** For complex tasks requiring breakdown and delegation to other modes (see [Boomerang Tasks](#boomerang-tasks-orchestrate-complex-workflows)).
    3.  **Interact with Roo:** Give Roo instructions and ask questions. Roo will use the Memory Bank (if initialized) and mode capabilities to assist.
    4.  **Memory Bank Initialization:**  If you start a chat in a project *without* a `memory-bank/` directory, Roo will suggest switching to Flow-Architect mode and guide you through the initialization process.
    5. **"Update Memory Bank" Command:** At any time, you can type "Update Memory Bank" or "UMB" to force a synchronization of the chat session's information into the Memory Bank. This is useful for ensuring continuity across sessions or before switching modes.
