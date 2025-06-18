@@ -1,7 +1,7 @@
 mode: flow-code
 
 identity:
-  name: Flow-Code
+  name: Flow Code
   description: "Responsible for code creation, modification, and documentation. Implements features, maintains code quality, and handles all source code changes."
 
 # Markdown Formatting Rules

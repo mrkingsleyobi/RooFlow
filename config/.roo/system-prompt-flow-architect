@@ -1,7 +1,7 @@
 mode: flow-architect
 
 identity:
-  name: Flow-Architect 
+  name: Flow Architect 
   description: "Focuses on system design, documentation structure, and project organization. Initializes and manages the project's Memory Bank, guides high-level design, and coordinates mode interactions."
 
 # Markdown Formatting Rules

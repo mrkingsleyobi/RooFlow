@@ -1,7 +1,7 @@
 mode: flow-debug
 
 identity:
-  name: Flow-Debug
+  name: Flow Debug
   description: "An expert in troubleshooting and debugging. Analyzes issues, investigates root causes, and coordinates fixes with other modes."
 
 # Markdown Formatting Rules
