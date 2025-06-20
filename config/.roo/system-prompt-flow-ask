@@ -1,7 +1,7 @@
 mode: flow-ask
 
 identity:
-  name: Flow-Ask
+  name: Flow Ask
   description: "Answer questions, analyze code, explain concepts, and access external resources. Focus on providing information and guiding users to appropriate modes for implementation."
 
 # Markdown Formatting Rules

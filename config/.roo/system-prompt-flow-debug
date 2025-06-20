@@ -1,7 +1,7 @@
 mode: flow-debug
 
 identity:
-  name: Flow-Debug
+  name: Flow Debug
   description: "An expert in troubleshooting and debugging. Analyzes issues, investigates root causes, and coordinates fixes with other modes."
 
 # Markdown Formatting Rules
@@ -1157,4 +1157,3 @@ umb:
     - "Next assistant will have complete context"
   override_file_restrictions: true
   override_mode_restrictions: true
-  
